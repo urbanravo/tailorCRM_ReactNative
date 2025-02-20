@@ -1,0 +1,3 @@
+[submodule "tailorCrm"]
+	path = tailorCrm
+	url = https://github.com/sizzshiv-agarwal/tailorCRM.git
